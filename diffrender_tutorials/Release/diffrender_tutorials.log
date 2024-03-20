@@ -1,0 +1,90 @@
+﻿  2d_triangles.cpp
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.h(240,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.h(281,46): warning C4018: “>=”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(121,61): warning C4244: “参数”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(140,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(145,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(146,95): warning C4244: “+=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=Real
+          ]
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(157,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(200,64): warning C4244: “参数”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(216,50): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(227,117): warning C4244: “+=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=Real
+          ]
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(283,64): warning C4244: “参数”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(299,50): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(308,117): warning C4244: “+=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=Real
+          ]
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(362,64): warning C4244: “参数”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(378,50): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(389,109): warning C4244: “+=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=Real
+          ]
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(442,64): warning C4244: “参数”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(458,50): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(467,109): warning C4244: “+=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=Real
+          ]
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(564,64): warning C4244: “参数”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(575,84): warning C4244: “+=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=Real
+          ]
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(576,69): warning C4244: “-=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=Real
+          ]
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(622,64): warning C4244: “参数”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(697,64): warning C4244: “参数”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(811,51): warning C4244: “参数”: 从“double”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(812,51): warning C4244: “参数”: 从“double”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(830,47): warning C4244: “参数”: 从“double”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(831,47): warning C4244: “参数”: 从“double”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(846,23): warning C4244: “初始化”: 从“double”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(847,23): warning C4244: “初始化”: 从“double”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(869,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(933,34): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(988,44): warning C4018: “>”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1007,16): warning C4244: “初始化”: 从“double”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1008,23): warning C4244: “初始化”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1009,23): warning C4244: “初始化”: 从“int”转换到“Real”，可能丢失数据
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1042,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1151,29): warning C4305: “初始化”: 从“double”到“Real”截断
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1152,29): warning C4305: “初始化”: 从“double”到“Real”截断
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1153,44): warning C4305: “初始化”: 从“double”到“Real”截断
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1154,44): warning C4305: “初始化”: 从“double”到“Real”截断
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1156,31): warning C4305: “初始化”: 从“double”到“Real”截断
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1157,31): warning C4305: “初始化”: 从“double”到“Real”截断
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.cpp(1159,32): warning C4305: “初始化”: 从“double”到“Real”截断
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(4484,24): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+E:\Desktop\diffgen_0_l1_cartoon_50\diffrender_tutorials\2d_triangles.h(315): message : 查看对正在编译的函数 模板 实例化“void std::fill<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,double>(const _FwdIt,const _FwdIt,const double &)”的引用
+          with
+          [
+              _Ty=Real,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Real>>>
+          ]
+  正在生成代码
+  2 of 2180 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  diffrender_tutorials.vcxproj -> E:\Desktop\diffgen_0_l1_cartoon_50\Release\diffrender_tutorials.exe
